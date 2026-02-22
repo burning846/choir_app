@@ -1,0 +1,12 @@
+node-runtime/
+.DS_Store
+.env.local
+.env
+.idea/
+.vscode/
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+.npm-cache/
+.config/
